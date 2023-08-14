@@ -2,8 +2,7 @@
 # Driving School VueJs
 
 Driving School is a website created under the VueJs framework as well as VueRouter.
-All the texts of this website have been imagined and written out of love by our friend ChatGPT <3
-
+All the texts of this website have been imagined and written out of love by our friend ChatGPT <3.
 
 ## API Reference
 
@@ -74,4 +73,5 @@ To run tests, run the following command
 ![App Screenshot](https://media.discordapp.net/attachments/1030513790464303105/1140594638621769739/image.png?width=1325&height=670)
 ![App Screenshot](https://media.discordapp.net/attachments/1030513790464303105/1140594732226060368/image.png?width=1322&height=671)
 ![App Screenshot](https://media.discordapp.net/attachments/1030513790464303105/1140594784977825912/image.png?width=1311&height=671)
+![App Screenshot](https://media.discordapp.net/attachments/1030513790464303105/1140597616170762332/image.png?width=1318&height=671)
 
